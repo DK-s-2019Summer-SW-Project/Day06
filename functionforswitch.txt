@@ -1,0 +1,11 @@
+
+while(1)
+{
+
+switch (op)
+		case '+': sum(su1, su2) : break;
+		case '-': printf("%d%c%d=%d\n", su1, op, su2, sub(su1, su2)) : break;
+		case'*': mult_add + mult(su1, su2);
+		case'/': div_double = div(su1, su2);
+
+}

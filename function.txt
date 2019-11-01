@@ -1,0 +1,35 @@
+함수 :
+
+void sum(): --> 함수 타입이 무엇인지 선언을 해야 한다
+
+int main()
+{
+  myname();
+  sum();
+
+
+}
+
+void sum()
+{
+  int a = 1;
+  int b - 2;
+  printf("%d",a+b);
+}
+
+void myname()
+{
+ printf("123456798\n");
+  printf(" rh gnlc cks");
+}
+
+void를 위로 올리면 선언과 실행을 같이 하는 것이다. 
+
+
+int sum_2(int a, int b)
+{
+   return a+b;--> main에서 함수를 호출 하고 값을 가져 온다. return의 값은 어디에도 저장이 되어 있지 않다.
+
+
+}
+
